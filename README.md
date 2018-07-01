@@ -1,3 +1,3 @@
-# GANS
+# Generative Adversarial Network (GANs)
 
-Convnet and GANs for generate High Resolution Image. 
+Convnet and GANs for generate High Resolution Images. 
